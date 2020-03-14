@@ -9,3 +9,4 @@ Asus RX 580 Strix
 
 Corsair LPX 3200 mhz CL16 2 x 16 gb
 
+USB has not been mapped. 
