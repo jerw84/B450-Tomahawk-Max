@@ -1,4 +1,7 @@
 # B450-Tomahawk-Max 
+
+https://i.redd.it/okoz18qc7pm41.png
+
 MacOS Catalina 10.15.2/Opencore 0.5.6
 
 Ryzen r9 3900x
