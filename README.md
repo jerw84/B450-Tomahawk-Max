@@ -6,7 +6,7 @@ MacOS Catalina 10.15.3/Opencore 0.5.6
 
 Ryzen r9 3900x
 
-MSI B450 Tomahawk Max BIOS Version 7C02v1D
+MSI B450 Tomahawk Max BIOS Version 7C02v35
 
 Asus RX 580 Strix ***add bootflag "agdpmod=pikera" if using 5700/5700xt***
 
